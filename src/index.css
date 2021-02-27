@@ -1,0 +1,27 @@
+body,
+html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  /* color: hsla(0, 0%, 100%, 0.7) !important; */
+}
+body {
+  font-weight: 300;
+  padding-bottom: 100px;
+  background-color: #414e60;
+  background-image: url(./Assets/Images/bg.jpg),
+    radial-gradient(farthest-side ellipse at 10% 0, #414e60 20%, #94a3b1);
+  background-image: url(./Assets/Images/bg.jpg),
+    -webkit-radial-gradient(10% 0, farthest-side ellipse, #414e60 20%, #94a3b1);
+  background-image: url(./Assets/Images/bg.jpg),
+    -moz-radial-gradient(10% 0, farthest-side ellipse, #414e60 20%, #94a3b1);
+  background-size: cover;
+  background-attachment: fixed, fixed;
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  line-height: 1.4;
+  /* color: #f8f8f8; */
+  /* background-color: #fff; */
+  display: flex;
+  flex-flow: row;
+}
