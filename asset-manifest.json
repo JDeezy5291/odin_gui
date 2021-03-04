@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.264277b7.chunk.css",
+    "main.js": "/static/js/main.a956aaf5.chunk.js",
+    "main.js.map": "/static/js/main.a956aaf5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bde2ad09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bde2ad09.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.4d6920b6.chunk.js": "/static/js/2.4d6920b6.chunk.js",
+    "static/js/2.4d6920b6.chunk.js.map": "/static/js/2.4d6920b6.chunk.js.map",
+    "static/js/3.27c46721.chunk.js": "/static/js/3.27c46721.chunk.js",
+    "static/js/3.27c46721.chunk.js.map": "/static/js/3.27c46721.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.264277b7.chunk.css.map": "/static/css/main.264277b7.chunk.css.map",
+    "static/js/2.4d6920b6.chunk.js.LICENSE.txt": "/static/js/2.4d6920b6.chunk.js.LICENSE.txt",
+    "static/media/Odin_Logo.4dc9b9da.png": "/static/media/Odin_Logo.4dc9b9da.png",
+    "static/media/index.css": "/static/media/bg.309e1365.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bde2ad09.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4d6920b6.chunk.js",
+    "static/css/main.264277b7.chunk.css",
+    "static/js/main.a956aaf5.chunk.js"
+  ]
+}
